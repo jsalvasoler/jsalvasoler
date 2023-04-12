@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joan Salvà Soler</h1>
 <h3 align="center">A Data Science student interested in Computer Science, Data Science, and Applied Mathematics</h3>
 
-- 🔭 I’m currently working on [Reinforcement Learning for Racetrack trajectories](https://github.com/GregoireLamb/ML3_racetrack)
+- 🔭 I’m currently working on a [Chess AI Engine](https://github.com/Lumos-Data/lumos-chess-ai)
 
 - 🌱 I’m currently learning **Java, Web Development (Vue, JavaScript)**
 
