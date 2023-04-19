@@ -12,6 +12,7 @@
 - 📫 How to reach me **jsalvasoler@hotmail.com**
 
 - 🗄️ On my Github you can find the repositories for the following projects:
+   - Reinforcement Learning for racetrack curve optimization
    - Groups and projects optimizer
    - Letterboxd user comparison dashboard
    - Simplex implementation
