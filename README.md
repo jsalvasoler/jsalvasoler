@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joan Salvà Soler</h1>
 <h3 align="center">A Data Science student interested in Computer Science, Data Science, and Applied Mathematics</h3>
 
-- 🔭 I’m currently working on a [Chess AI Engine](https://github.com/Lumos-Data/lumos-chess-ai) for [Lumos Student Data Consulting](https://lumos-consulting.at/)
-
-- 🌱 I’m currently learning **Java, Web Development (Vue, JavaScript)**
+- 🔭 I’m currently working on the project [Exact Methods for the Site Assessment Routing Problem](https://github.com/jsalva9/exact_sarp)
+  
+- 🌱 I’m currently learning **Reinforcement Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jsalva9](https://github.com/jsalva9)
 
@@ -11,9 +11,11 @@
 
 - 📫 How to reach me **jsalvasoler@hotmail.com**
 
-- 🗄️ On my Github you can find the repositories for the following projects:
+- 🗄️ On my GitHub you can find the repositories of my personal and university projects, including:
    - Reinforcement Learning for racetrack curve optimization
    - Groups and projects optimizer
+   - k-MST through MILP Optimization
+   - Vocabulary app for German learners
    - Letterboxd user comparison dashboard
    - Simplex implementation
 
