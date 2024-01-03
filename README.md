@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joan Salvà Soler</h1>
-<h3 align="center">A Data Science student interested in Computer Science, Data Science, and Applied Mathematics</h3>
+<h3 align="center">A Data Science student interested in Machine Learning and Combinatorial Optimization</h3>
 
 - 🔭 I’m currently working on the project [Exact Methods for the Site Assessment Routing Problem](https://github.com/jsalva9/exact_sarp)
   
 - 🌱 I’m currently learning **Reinforcement Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jsalva9](https://github.com/jsalva9)
-
-- 💬 Ask me about **Operations Research, ORTools**
 
 - 📫 How to reach me **jsalvasoler@hotmail.com**
 
