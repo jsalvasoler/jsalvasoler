@@ -10,6 +10,7 @@
 - 📫 How to reach me **jsalvasoler@hotmail.com**
 
 - 🗄️ On my GitHub you can find the repositories of my personal and university projects, including:
+   - An implementation of AlphaZero for Connect 4  
    - Reinforcement Learning for racetrack curve optimization
    - Groups and projects optimizer
    - k-MST through MILP Optimization
