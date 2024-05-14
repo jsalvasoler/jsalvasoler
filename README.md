@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Joan Salvà Soler</h1>
+<h2 align="center">Hi 👋, I'm Joan Salvà Soler</h1>
 <h3 align="center">A Data Science student interested in Machine Learning and Combinatorial Optimization</h3>
 
-- 🔭 I’m currently working on the project [Exact Methods for the Site Assessment Routing Problem](https://github.com/jsalva9/exact_sarp)
-  
-- 🌱 I’m currently learning **Reinforcement Learning and Deep Learning**
+I'm a Master's student in Data Science at the TU Vienna. I combine my studies with a Research Intern position at Quantagonia. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/jsalva9](https://github.com/jsalva9)
-
-- 📫 How to reach me **jsalvasoler@hotmail.com**
-
-- 🗄️ On my GitHub you can find the repositories of my personal and university projects, including:
-   - An implementation of AlphaZero for Connect 4  
+On my GitHub you can find the repositories of my personal and university projects, including:
+   - An implementation of AlphaZero for Connect 4
    - Reinforcement Learning for racetrack curve optimization
-   - Groups and projects optimizer
-   - k-MST through MILP Optimization
+   - Heuristics for the Weighted Editing S-Plex problem
+   - k-Minimum Spanning Tree through MILP Optimization
    - Vocabulary app for German learners
    - Letterboxd user comparison dashboard
+   - Groups and projects optimizer
    - Simplex implementation
 
 <h3 align="left">Connect with me:</h3>
