@@ -3,7 +3,9 @@
 
 I'm a Master's student in Data Science at the TU Vienna. I combine my studies with a Research Intern position at Quantagonia. 
 
-On my GitHub you can find the repositories of my personal and university projects, including:
+Feel free to check my [website](https://jsalvasoler.vercel.app/), where I write more in detail about some of the projects here.
+
+These are repositories of some of my personal and university projects, including:
    - An implementation of AlphaZero for Connect 4
    - Reinforcement Learning for racetrack curve optimization
    - Heuristics for the Weighted Editing S-Plex problem
