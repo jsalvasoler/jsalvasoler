@@ -7,6 +7,7 @@ Feel free to check my [website](https://jsalvasoler.vercel.app/), where I write 
 
 These are repositories of some of my personal and university projects, including:
    - An implementation of AlphaZero for Connect 4
+   - Transformer classifier for predicting the gender of a word
    - Reinforcement Learning for racetrack curve optimization
    - Heuristics for the Weighted Editing S-Plex problem
    - k-Minimum Spanning Tree through MILP Optimization
