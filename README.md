@@ -1,7 +1,7 @@
 ## Joan Salvà Soler
 
 
-I am a Master’s student at the Technical University of Vienna, and a Research Intern at Quantagonia.
+I am a Master’s student at the Technical University of Vienna, and a Research Engineer at Quantagonia.
 
 Feel free to check my [website](https://jsalvasoler.vercel.app/), where I write more in detail about some of the projects here.
 
