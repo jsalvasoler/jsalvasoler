@@ -18,8 +18,8 @@ These are repositories of some of my personal and university projects, including
 
 <center>
    
- [![Website Button](https://img.shields.io/badge/Website-https%3A%2F%2Fjsalvasoler.vercel.app-blue)](https://jsalvasoler.vercel.app)
- [![Email Button](https://img.shields.io/badge/Email-jsalvasoler%40hotmail.com-blue)](mailto:jsalvasoler@hotmail.com)
- [![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jsalvasoler)
+[![Website Button](https://img.shields.io/badge/Website-https%3A%2F%2Fjsalvasoler.vercel.app-green)](https://jsalvasoler.vercel.app)
+[![Email Button](https://img.shields.io/badge/Email-jsalvasoler%40hotmail.com-D14836)](mailto:jsalvasoler@hotmail.com)
+[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/jsalvasoler)
  
 </center>
