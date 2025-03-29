@@ -6,6 +6,7 @@ I am a Master’s student at the Technical University of Vienna, and a Research 
 Feel free to check my [website](https://jsalvasoler.vercel.app/), where I write more in detail about some of the projects here.
 
 These are repositories of some of my personal and university projects, including:
+   - Diffusion-Based Evolutionary Algorithms
    - An implementation of AlphaZero for Connect 4
    - Heuristics for the Trigger-Arc TSP problem
    - A refactor of the karpathy/tinyGPT repo, with some further experiments
