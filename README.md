@@ -1,7 +1,7 @@
 ## Joan Salvà Soler
 
 
-I am a Master’s student at the Technical University of Vienna, and a Research Engineer at Quantagonia.
+I am Machine Learning Engineer at H2O.ai, based in Vienna.
 
 Feel free to check my [website](https://jsalvasoler.vercel.app/), where I write more in detail about some of the projects here.
 
