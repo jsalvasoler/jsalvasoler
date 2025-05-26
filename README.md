@@ -1,9 +1,9 @@
 ## Joan Salvà Soler
 
 
-I am Machine Learning Engineer at H2O.ai, based in Vienna.
+I am an ML Software Engineer at H2O.ai based in Vienna.
 
-Feel free to check my [website](https://jsalvasoler.vercel.app/), where I write more in detail about some of the projects here.
+Check my [website](https://jsalvasoler.vercel.app/), where I write more in detail about some of the projects here.
 
 These are repositories of some of my personal and university projects, including:
    - Diffusion-Based Evolutionary Algorithms
