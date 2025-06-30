@@ -8,7 +8,6 @@ Check my [website](https://jsalvasoler.vercel.app/), where I write more in detai
 These are repositories of some of my personal and university projects, including:
    - Diffusion-Based Evolutionary Algorithms
    - An implementation of AlphaZero for Connect 4
-   - Heuristics for the Trigger-Arc TSP problem
    - A refactor of the karpathy/tinyGPT repo, with some further experiments
    - Transformer classifier for predicting the gender of a word
    - Reinforcement Learning for racetrack curve optimization
