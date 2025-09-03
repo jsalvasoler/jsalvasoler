@@ -3,7 +3,7 @@
 
 I am an ML Software Engineer at H2O.ai based in Vienna.
 
-Check out my [website](https://jsalvasoler.vercel.app/), where I write more in detail about some of the projects here.
+Check out my [website](https://jsalvasoler.github.io/), where I write more in detail about some of the projects here.
 
 These are repositories of some of my personal and university projects, including:
    - Diffusion-Based Evolutionary Algorithms
