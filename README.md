@@ -16,7 +16,7 @@ These are repositories of some of my personal and university projects, including
    - Vocabulary app for German learners
    - Letterboxd user comparison dashboard
    - Groups and projects optimizer
-   - Simplex implementation
+   - A rudimentary Simplex implementation with Matlab
 
 <center>
    
