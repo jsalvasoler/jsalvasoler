@@ -6,6 +6,7 @@ I am an ML Software Engineer at H2O.ai based in Vienna.
 Check out my [website](https://jsalvasoler.github.io/), where I write more in detail about some of the projects here.
 
 These are repositories of some of my personal and university projects, including:
+   - A Visual Analogy Reasoning Model for the KiVA-ICCV challenge
    - Diffusion-Based Evolutionary Algorithms
    - An implementation of AlphaZero for Connect 4
    - A refactor of the karpathy/tinyGPT repo, with some further experiments
