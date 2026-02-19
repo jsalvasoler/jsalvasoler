@@ -13,10 +13,6 @@ These are repositories of some of my personal and university projects, including
    - Transformer classifier for predicting the gender of a word
    - Heuristics for the Weighted Editing S-Plex problem
    - k-Minimum Spanning Tree through MILP Optimization
-   - Vocabulary app for German learners
-   - Letterboxd user comparison dashboard
-   - Groups and projects optimizer
-   - A rudimentary Simplex implementation with Matlab
 
 <center>
    
